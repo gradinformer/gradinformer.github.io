@@ -1,5 +1,16 @@
 
 /* equal card height */
+
+.main_container {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.tabs {
+	padding-left:2%;
+	padding-right:2%;
+}
+
 .row-equal > div[class*='col-'] {
     display: flex;
     flex: 1 0 auto;
